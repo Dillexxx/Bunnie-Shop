@@ -598,4 +598,15 @@ a {
 }
 
 }
-  
+ 
+@media only screen and (max-width:428px) {
+  .small-img-group {
+    justify-content: space-between;
+  }
+}
+
+@media only screen and (max-width:932px) {
+  .small-img-group {
+    justify-content: space-between;
+  }
+}
