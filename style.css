@@ -672,11 +672,11 @@ a {
   text-align: center;
 }
 #cart table td:nth-child(1) {
-  width: 250px;
+  width: 150px;
   text-align: center;
 }
 #cart table td:nth-child(3) {
-  width: 300px;
+  width: 250px;
   text-align: center;
 }
 #cart table td:nth-child(4),
