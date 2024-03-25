@@ -665,6 +665,7 @@ a {
 
 #cart table img {
   width: 60px;
+  height: auto;
 }
 
 #cart table td:nth-child(1) {
